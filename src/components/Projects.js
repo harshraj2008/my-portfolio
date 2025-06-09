@@ -41,7 +41,7 @@ export default function Projects() {
               </a>
               {drive && (
                 <a href={drive} target="_blank" rel="noopener noreferrer">
-                   Video Trail Runs 
+                   Video Trial Runs 
                 </a>
               )}
               {weblink && !drive && (
