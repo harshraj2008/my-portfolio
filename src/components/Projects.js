@@ -20,8 +20,8 @@ const projects = [
     title: "Personal Portfolio Website",
     description:
       "A personal portfolio showcasing projects, skills, and experience using React and CSS animations.",
-    github: "https://github.com/harshraj2008/portfolio",
-    weblink: "https://autonomous-drone-navigation.web.app/"
+    github: "https://github.com/harshraj2008/my-portfolio",
+    weblink: "https://hrajportfolio.vercel.app/"
   }
 ];
 
